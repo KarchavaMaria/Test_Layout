@@ -37,5 +37,5 @@ test-layout/
 ## ⚙️ Запуск проєкту
 1. Клонувати репозиторій:
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/KarchavaMaria/Test_Layout.git
 
