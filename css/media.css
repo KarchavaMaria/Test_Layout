@@ -163,6 +163,10 @@
 
 
 @media (max-width: 480px) {
+    body {
+        min-width: auto;
+    }
+
     .header__lang {
         margin: 0 20px;
     }
