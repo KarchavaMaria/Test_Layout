@@ -33,6 +33,22 @@ test-layout/
 │   └── icons/
 └── README.md
 
+## 📸 Фото проєкту
+
+- DESKTOP
+  
+<img width="1440" height="899" alt="screenshot_test_desktop" src="https://github.com/user-attachments/assets/1cf2f67c-7d5d-46d3-9f32-aac8e022b905" />
+
+- TABLET
+
+<img width="1112" height="899" alt="screenshot_test_table" src="https://github.com/user-attachments/assets/dd9ee892-4a85-4282-9722-b87d39e35f01" />
+
+
+- MOBILE
+
+<img width="478" height="830" alt="screenshot_test_mobile" src="https://github.com/user-attachments/assets/2454e984-d368-48d9-a603-26b6678c9bed" />
+
+
 ---
 
 ## ⚙️ Запуск проєкту
