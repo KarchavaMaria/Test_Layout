@@ -24,13 +24,13 @@
 
 ## 📂 Структура проєкту
 test-layout/
--│── index.html
--│── css/
--│ |── style.css
--| └── media.css
--│── assets/
--│ └── icons/
--└── README.md
+│── index.html
+│── css/
+│ |── style.css
+| └── media.css
+│── assets/
+│ └── icons/
+└── README.md
 
 ---
 
